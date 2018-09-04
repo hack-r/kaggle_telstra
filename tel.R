@@ -1,5 +1,5 @@
 # Options -----------------------------------------------------------------
-setwd("T:/RNA/Baltimore/Jason/ad_hoc/tel")
+setwd("../tel")
 
 # Functions/Libraries -----------------------------------------------------
 require(pacman)
